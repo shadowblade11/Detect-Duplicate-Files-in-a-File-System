@@ -4,6 +4,10 @@ CITS2002 (System Programming) project
 
 This project was part of the CITS2002 unit and was written in C, worked together with a partner.
 
+## Authors
+Sunny Lac - [shadowblade11](https://github.com/shadowblade11)
+Tony Nguyen - [Tony-Nguyen0](https://github.com/Tony-Nguyen0)
+
 A description of the project is shown below.
 
 **Background**
